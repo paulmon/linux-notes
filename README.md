@@ -13,6 +13,7 @@
 ## misc
 - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Install latest git on Ubuntu](install-git.md)
+- [Vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
   
 # My notes
 - [My tmux config](.tmux.conf)
