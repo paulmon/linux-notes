@@ -14,6 +14,7 @@
 - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Install latest git on Ubuntu](install-git.md)
 - [Vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+- [How to Install ZSH Shell on Ubuntu 18.04 LTS](https://linuxhint.com/install_zsh_shell_ubuntu_1804/)
   
 # My notes
 - [My tmux config](.tmux.conf)
